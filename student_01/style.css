@@ -1,1 +1,8 @@
-
+html{
+  font-size:20px;
+  color:#c40000;
+  border-style:solid;
+  border-size:40px;
+  border-color:#01a301;
+  font-family: "Century Gothic";
+}
